@@ -1,0 +1,15 @@
+{
+  "name": "csvid3tagger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cameron Henlin <cam.henlin@gmail.com> (https://github.com/CamHenlin/)",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^2.1.0",
+    "id3-writer": "^1.2.2"
+  }
+}
